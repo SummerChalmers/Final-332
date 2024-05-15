@@ -254,6 +254,7 @@ This chart shows the Percentage of Type of Asthma.
       labs(title = "Type of Asthma by Percent", x = "Year", y = "Percent")+
       scale_y_continuous(breaks = seq(0, max(df$Percent), by = 2))
   })
+```
 
 This chart shows the Precipitation by Location for Each Year.
 
