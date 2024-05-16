@@ -267,3 +267,9 @@ This chart shows the Precipitation by Location for Each Year.
       scale_fill_manual(values = c("red", "blue", "green", 'yellow', 'pink', 'purple'))
   })
 ```
+
+## Shiny Application
+
+Please click this link to view our shiny application.
+
+(https://hannahmaurer.shinyapps.io/FinalProject/)
